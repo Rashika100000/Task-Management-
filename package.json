@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "json-comments": "^0.2.1",
+    "reactjs": "^1.0.0"
+  }
+}
